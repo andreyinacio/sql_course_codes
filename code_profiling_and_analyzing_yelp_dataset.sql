@@ -1,3 +1,5 @@
+/* All of the coding exercises refer to the Yelp Dataset. The ER diagram is available on: https://bit.ly/3DwfFRZ */
+
 /* Part 1: Yelp Dataset Profiling and Understanding */
 
 /* 1. Profile the data by finding the total number of records for each of the tables below: */
