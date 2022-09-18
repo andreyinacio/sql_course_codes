@@ -1,3 +1,6 @@
+/* All of the coding exercises refer to the open source Chinook Database. The ER diagram is available on:
+https://ucde-rey.s3.amazonaws.com/DSV1015/ChinookDatabaseSchema.png */
+
 /* 1. Find all the tracks that have a length of 5,000,000 millisec */
 SELECT COUNT(Milliseconds) 
 FROM Tracks
