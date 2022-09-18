@@ -1,3 +1,6 @@
+/* All of the coding exercises refer to the open source Chinook Database. The ER diagram is available on:
+https://ucde-rey.s3.amazonaws.com/DSV1015/ChinookDatabaseSchema.png */
+
 /* 1. Pull a list of customer ids with the customer’s full name, and address, along with 
 combining their city and country together. Be sure to make a space in between these 
 two and make it UPPER CASE. (e.g. LOS ANGELES USA) */
