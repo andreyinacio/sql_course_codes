@@ -1,4 +1,4 @@
-/* All of the questions in this quiz refer to the open source Chinook Database. The ER diagram is available on:
+/* All of the coding exercises refer to the open source Chinook Database. The ER diagram is available on:
 https://ucde-rey.s3.amazonaws.com/DSV1015/ChinookDatabaseSchema.png */
 
 /* 1. Retrieve all the records from the Employees table. */
