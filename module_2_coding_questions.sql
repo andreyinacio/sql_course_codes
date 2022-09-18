@@ -68,4 +68,3 @@ COUNT(AlbumId) AS NumTracks
 FROM Tracks
 GROUP BY AlbumId
 HAVING NumTracks >= 12;
-
