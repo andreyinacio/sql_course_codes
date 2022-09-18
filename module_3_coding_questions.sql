@@ -1,3 +1,6 @@
+/* All of the coding exercises refer to the open source Chinook Database. The ER diagram is available on:
+https://ucde-rey.s3.amazonaws.com/DSV1015/ChinookDatabaseSchema.png */
+
 /* 1. Using a subquery, find the names of all the tracks for the album "Californication". */
 SELECT Name
 FROM Tracks
