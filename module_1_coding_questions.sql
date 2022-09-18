@@ -18,6 +18,3 @@ FROM Employees;
 SELECT * 
 FROM Tracks
 LIMIT 20;
-
-
-
